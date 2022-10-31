@@ -9,6 +9,8 @@ Implemented features:
 - Button states
 - RGB Led
 
+You can also use this driver from [node.js](https://nodejs.org), using this library: [display-hat-mini-node](https://github.com/niofis/display-hat-mini-node). 
+
 ## Quick example
 
 ```rust
